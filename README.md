@@ -15,7 +15,7 @@ This project implements a simple chatbot using a Large Language Model (LLM) to a
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/ctse-lecture-notes-chatbot.git
+git clone https://github.com/IT21174308/Assignment2_ctse.git
 ```
 
 ### 2. Download or Prepare Your Lecture Notes
