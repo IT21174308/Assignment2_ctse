@@ -1,0 +1,8 @@
+langchain
+faiss-cpu
+PyPDF2
+sentence-transformers
+transformers
+torch
+langchain-huggingface
+tf-keras
